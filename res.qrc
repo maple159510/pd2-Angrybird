@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ground.png">image/GROUND.png</file>
+        <file alias="bird.png">image/Normal_Bird_1.png</file>
+        <file alias="bird2.png">../../../project3_AngryBird/BIRD_GREEN_COLLISION.png</file>
+        <file alias="background.png">../../../project3_AngryBird/XMAS_2012_SKY.png</file>
+        <file alias="bird3.png">../../../project3_AngryBird/BIRD_GREY_FLYING.png</file>
+        <file alias="bird4.png">../../../project3_AngryBird/BIRD_BOOMERANG.png</file>
+        <file alias="blocker1.png">../../../project3_AngryBird/CRATE_BIG_2_2.png</file>
+        <file alias="blocker2.png">../../../project3_AngryBird/CAMPSTOVE.png</file>
+        <file alias="start.png">../../../project3_AngryBird/ICON_HELP_SMALL.png</file>
+        <file alias="restart.png">../../../project3_AngryBird/ICON_RESTART.png</file>
+        <file alias="exit.png">../../../project3_AngryBird/ICON_X.png</file>
+        <file alias="enemy1.png">../../../project3_AngryBird/PIGLETTE_BIG_01.png</file>
+        <file alias="enemy2.png">../../../project3_AngryBird/PIGLETTE_BIG_02_SMILE.png</file>
+        <file alias="enemy3.png">../../../project3_AngryBird/PIGLETTE_KING_02_BLINK.png</file>
+        <file alias="enemy4.png">../../../project3_AngryBird/PIGLETTE_SMALL_01_BLINK.png</file>
+        <file alias="enemy5.png">../../../project3_AngryBird/PIGLETTE_SMALL_02.png</file>
+        <file alias="enemy6.png">../../../project3_AngryBird/PIGLETTE_SMALL_03.png</file>
+        <file alias="egg.png">../../../project3_AngryBird/PLATINIUM_EGG.png</file>
+        <file alias="shot.png">../../../project3_AngryBird/SLING_SHOT_02.png</file>
+        <file alias="blocker3.png">../../../project3_AngryBird/BLOCK_TNT_3X3.png</file>
+        <file alias="blocker4.png">../../../project3_AngryBird/BLOCK_TREASURE_CHEST.png</file>
+        <file alias="blocker5.png">../../../project3_AngryBird/BLOCK_WOOD_1_2.png</file>
+        <file alias="blocker6.png">../../../project3_AngryBird/BLOCK_WOOD_3_3.png</file>
+        <file alias="blocker7.png">../../../project3_AngryBird/BLOCK_WOOD_4_5.png</file>
+        <file alias="blocker8.png">../../../project3_AngryBird/BLOCK_WOOD_4_8.png</file>
+        <file alias="blocker9.png">../../../project3_AngryBird/BLOCK_WOOD_4X4_4.png</file>
+        <file alias="blocker10.png">../../../project3_AngryBird/BLOCK_WOOD_10X1_2.png</file>
+        <file alias="party.png">../../../project3_AngryBird/SNOW_BALL_4X4_2.png</file>
+        <file alias="party1.png">../../../project3_AngryBird/XMAS_BALL_01.png</file>
+        <file alias="party2.png">../../../project3_AngryBird/XMAS_CANDY_CANE.png</file>
+        <file alias="party3.png">../../../project3_AngryBird/XMAS_COOKIE_BIRD.png</file>
+        <file alias="party4.png">../../../project3_AngryBird/XMAS_COOKIE_STAR.png</file>
+        <file alias="party5.png">../../../project3_AngryBird/XMAS_WREATH.png</file>
+        <file alias="restart2.png">../../../project3_AngryBird/BTN_TRACKPADMENU_RESTART_HIGHLIGHT.png</file>
+        <file>../../../project3_AngryBird/BUTTON_PLAY.png</file>
+    </qresource>
+</RCC>
